@@ -1,0 +1,15 @@
+node_modules
+.next
+.git
+.github
+.idea
+.vscode
+test
+test-results
+playwright-report
+.env*
+!.env.example
+Dockerfile
+.dockerignore
+npm-debug.log*
+*.md
