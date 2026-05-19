@@ -4,8 +4,7 @@
 
 A full-stack task manager built end to end on **Next.js 16** (App Router,
 TypeScript). It implements the same projects-and-tasks domain as its sibling
-backends — [`php-laravel-task-api`](https://github.com/denis-sofonov/php-laravel-task-api)
-and [`python-fastapi-task-api`](https://github.com/denis-sofonov/python-fastapi-task-api) —
+backend [`python-fastapi-task-api`](https://github.com/denis-sofonov/python-fastapi-task-api)
 and its full-stack counterpart [`ts-nuxt-task-app`](https://github.com/denis-sofonov/ts-nuxt-task-app),
 so the same problem can be compared across stacks. This is the React take: the
 server API **and** the UI live in one application, with end-to-end type safety
